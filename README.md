@@ -1,5 +1,5 @@
 # Hi there 👋, my name is **Yaroslav Lubinets**!
-## I'm *React Native | Nest.JS* Developer at MintyMint
+## I'm *React Native* Developer
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
